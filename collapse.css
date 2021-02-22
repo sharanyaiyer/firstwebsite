@@ -1,0 +1,9 @@
+body{
+    font-family: serif;
+    font-weight: 400;
+    padding: 50px;
+}
+
+.card{
+    max-width: 30%;    
+}
